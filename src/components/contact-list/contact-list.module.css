@@ -1,0 +1,12 @@
+.value {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.btn {
+  cursor: pointer;
+}
